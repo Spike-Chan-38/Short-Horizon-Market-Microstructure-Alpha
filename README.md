@@ -28,6 +28,13 @@ The final output is structured as a research-grade study linking empirical findi
 
 
 
+**Important notes**:
+1) EDA.ipynb contains all the exploratory code. Any signals that we might potentially wanna create for the models later on are to be tested + backtested + engineered here initially
+2) Signal_Engineering.ipynb should contain all the signals that we want to use. It contributes to the single source of truth where all the models will be reading the data + signals from
+
+
+
+
 
 
 
